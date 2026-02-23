@@ -4,14 +4,11 @@ A customizable, accessible, and cross-platform dropdown component for React Nati
 
 ## Installation
 
-
 ```sh
 npm install react-native-dropdown
 ```
 
-
 ## Usage
-
 
 ```js
 import { multiply } from 'react-native-dropdown';
@@ -20,7 +17,6 @@ import { multiply } from 'react-native-dropdown';
 
 const result = await multiply(3, 7);
 ```
-
 
 ## Contributing
 
