@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Dropdown Example",
-    "slug": "react-native-dropdown-example",
+    "slug": "react-native-smart-dropdown-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

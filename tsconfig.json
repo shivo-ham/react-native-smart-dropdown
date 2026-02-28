@@ -2,7 +2,6 @@
   "compilerOptions": {
     "rootDir": ".",
     "baseUrl": "./src",
-    "ignoreDeprecations": "6.0",
     "paths": {
       "@/*": ["*"],
 
@@ -15,6 +14,7 @@
       "@utils": ["utils"],
       "@utils/*": ["utils/*"]
     },
+    "ignoreDeprecations": "6.0",
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "customConditions": ["react-native-strict-api"],

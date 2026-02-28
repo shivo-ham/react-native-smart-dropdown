@@ -1,5 +1,5 @@
 {
-  "name": "react-native-dropdown",
+  "name": "react-native-smart-dropdown",
   "version": "0.1.0",
   "description": "A customizable, accessible, and cross-platform dropdown component for React Native and Web.",
   "main": "./lib/module/index.js",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-dropdown-example",
+    "example": "yarn workspace react-native-smart-dropdown-example",
     "clean": "del-cli lib",
     "build": "bob build",
     "prepack": "bob build",
@@ -58,14 +58,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivo-ham/react-native-dropdown.git"
+    "url": "git+https://github.com/shivo-ham/react-native-smart-dropdown.git"
   },
   "author": "shivo-ham <rahulajmera3336@gmail.com> (https://github.com/shivo-ham)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shivo-ham/react-native-dropdown/issues"
+    "url": "https://github.com/shivo-ham/react-native-smart-dropdown/issues"
   },
-  "homepage": "https://github.com/shivo-ham/react-native-dropdown#readme",
+  "homepage": "https://github.com/shivo-ham/react-native-smart-dropdown#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -95,7 +95,7 @@
     "react-native-builder-bob": "^0.40.13",
     "release-it": "^19.0.4",
     "turbo": "^2.5.6",
-    "typescript": "^5.9.2"
+    "typescript": "5.9.2"
   },
   "peerDependencies": {
     "react": ">=18",

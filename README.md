@@ -1,17 +1,17 @@
-# react-native-dropdown
+# react-native-smart-dropdown
 
 A customizable, accessible, and cross-platform dropdown component for React Native and Web.
 
 ## Installation
 
 ```sh
-npm install react-native-dropdown
+npm install react-native-smart-dropdown
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-dropdown';
+import { multiply } from 'react-native-smart-dropdown';
 
 // ...
 

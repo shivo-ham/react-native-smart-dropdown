@@ -1,5 +1,5 @@
 import { View } from 'react-native'
-import { Dropdown } from '../../src/components/dropdown';
+import { Dropdown } from '../../src/dropdown';
 
 export default function App() {
   return (
@@ -9,7 +9,7 @@ export default function App() {
   )
 }
 
-// import { Dropdown, DropdownProvider } from 'react-native-dropdown';
+// import { Dropdown, DropdownProvider } from 'react-native-smart-dropdown';
 
 // <DropdownProvider
 //   theme={{
